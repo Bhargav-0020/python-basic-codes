@@ -11,7 +11,7 @@ def divide(a,b):
     quotient=a/b
     return quotient
 def operator():
-    while Truerue:
+    while True:
         print("+")
         print("-")
         print("*")
